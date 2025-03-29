@@ -32,7 +32,7 @@ const ExpenseChart = () => {
         ],
     };
 
-    return <Pie ref={chartRef} data={data} options={{ responsive: true }} className="mx-auto w-50 h-50" />;
+    return <Pie ref={chartRef} data={data} options={{ responsive: true }} className="mx-auto " />;
 };
 
 export default ExpenseChart;
