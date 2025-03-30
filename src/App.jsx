@@ -4,6 +4,7 @@ import Home from './Pages/Home.jsx'
 import AddExpensePage from './Pages/AddExpensePage'
 import ExpenseListPage from './Pages/ExpenseListPage'
 import './App.css'
+import './index.css'
 
 const App = () => {
 
